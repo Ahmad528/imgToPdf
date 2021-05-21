@@ -157,13 +157,12 @@ span{
   pointer-events: none;
 }
 #img-name{
-  margin-top: 1rem;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
   width: 8.5rem;
   text-align: center;
-  margin: auto;
+  margin: 1rem auto;
 }
 
 .add-more-file{
